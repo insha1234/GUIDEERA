@@ -1,7 +1,3 @@
-Sure! Here's a sample README file for your project:
-
----
-
 # Guideera
 
 Guideera is a comprehensive educational website designed to provide textbooks for all subjects from classes 1 to 8. In addition to textbooks, Guideera offers roadmaps for various educational streams such as PCM, PCB, Humanities, etc. The platform also provides tuition services for rural students.
